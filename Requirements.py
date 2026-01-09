@@ -1,3 +1,4 @@
+Python: 3.12
 Required Versions:
 torch==2.5.1+cu121  
 numpy==1.26.3  
